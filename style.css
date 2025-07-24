@@ -1,0 +1,35 @@
+ body {
+    background-image: url("Background.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+  h1{
+   text-align: center;
+   margin-left: auto;
+  margin-right: auto;
+   font-family:"Segoe Script";
+   font-size: 50px;
+   color: hsl(314, 90%, 61%);
+   text-shadow: 3px 3px 0px    hsl(314, 90%, 61%), 7px 7px 15px    hsl(314, 59%, 29%);
+ }
+ .img-deg {
+   display:block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 2%;
+  width: 100; 
+  border-radius: 25px;
+   border-style:dashed;
+   border-width: 5px;
+   border-color:blueviolet;
+ }
+ .p1{
+   text-align: center;
+   border-style: outset;
+   border-width: 5px;
+   border-color:blueviolet;
+   width:55%;
+   margin-left: 23%;
+   border-radius: 25px;
+   font-family:"Segoe Script";
+ }
